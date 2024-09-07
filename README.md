@@ -1,9 +1,15 @@
-## Hi there 👋
+## Welcome to my personal webpage! 
+### 你好，我是孙佳会👋
 
-<!--
-**nymph4x/nymph4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**
+●  🔭 就读于福州大学数据科学与大数据技术专业大三年级
+●  😄 已掌握C语言，Python，Java相关语言使用，熟悉Hadoop，HDFS，MapReduce，Spark等基础使用
+●  🌱 了解机器学习和数据挖掘相关工具，如Pandas，sklearn，weka等
+●  🤔 目前对数据挖掘方向很感兴趣，正在学习相关知识
+●  💬 未来计划考研深造，希望能在本科学习的基础上有所深入，切实感受到计算机的魅力
+●  📫 博客园：https://home.cnblogs.com/u/3512821/
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
